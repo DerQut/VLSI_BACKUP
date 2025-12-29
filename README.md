@@ -1,1 +1,1 @@
-# VLSI_BACKUP
+To repozytorium służy jako kopia zapasowa projektu gry kółko i krzyżyk zaimplementowanej jako maszyna stanów języka VHDL. Celem projektu było zaprojektowanie maszyny stanów i przeprowadzenie jej symulacji behawioralnej (bez syntezy)
